@@ -1,0 +1,45 @@
+{
+  "source1": {
+    "Name": "company",
+    "Credential Type": "license_type",
+    "Credential Number": "license_number",
+    "Status": "license_status",
+    "Expiration Date": "certificate_expiration_date",
+    "Address": "address1",
+    "State": "state",
+    "County": "county",
+    "Phone": "phone",
+    "First Issue Date": "license_issued",
+    "Primary Contact Name": "licensee_name",
+    "Primary Contact Role": "title"
+  },
+  "source2": {
+    "Type License": "license_type",
+    "Company": "company",
+    "Accepts Subsidy": "accepts_financial_aid",
+    "Phone": "phone",
+    "Email": "email",
+    "Address1": "address1",
+    "Address2": "address2",
+    "City": "city",
+    "State": "state",
+    "Zip": "zip",
+    "Total Cap": "capacity",
+    "Primary Caregiver": "licensee_name"
+  },
+  "source3": {
+    "Operation Name": "company",
+    "Type": "license_type",
+    "Status": "license_status",
+    "Issue Date": "license_issued",
+    "Address": "address1",
+    "City": "city",
+    "State": "state",
+    "Zip": "zip",
+    "County": "county",
+    "Phone": "phone",
+    "Email Address": "email",
+    "Capacity": "capacity",
+    "Facility ID": "provider_id"
+  }
+}
